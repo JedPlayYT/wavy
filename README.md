@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://github.com/JedPlayYT/wavy/releases/latest"><img src="https://img.shields.io/github/v/release/JedPlayYT/wavy?style=for-the-badge&label=Version&color=8b5cf6" alt="Neueste Version"></a>
   <a href="https://github.com/JedPlayYT/wavy/releases"><img src="https://img.shields.io/github/downloads/JedPlayYT/wavy/total?style=for-the-badge&label=Downloads&color=ec4899" alt="Downloads"></a>
-  <img src="https://img.shields.io/badge/Windows%20%C2%B7%20macOS%20%C2%B7%20Linux-111827?style=for-the-badge" alt="Windows, macOS, Linux">
+  <img src="https://img.shields.io/badge/Windows%20%C2%B7%20macOS%20%C2%B7%20Linux%20%C2%B7%20Android%20%C2%B7%20iPhone-111827?style=for-the-badge" alt="Windows, macOS, Linux, Android, iPhone">
+  <a href="https://discord.gg/sMkQURNqbX"><img src="https://img.shields.io/badge/Discord-beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 **Wavy** ist ein Desktop-Player für **YouTube Music** – mit eigenem Design, Equalizer, Live-Wallpaper, Karaoke-Songtexten, Discord-Status und „Zusammen hören“ mit Freunden. Du meldest dich ganz normal mit deinem YouTube-/Google-Konto an, alles andere passiert lokal auf deinem PC.
@@ -23,6 +24,8 @@
 | **Windows 10/11** | `Wavy-Setup-x.y.z.exe` – aktualisiert sich danach selbst |
 | **macOS** | `…-Mac-Apple-Silicon.zip` (M1–M4) oder `…-Mac-Intel.zip` – Anleitung liegt in der Zip |
 | **Linux** | `.AppImage` (aktualisiert sich selbst), `.deb` (Ubuntu/Debian), `.rpm` (Fedora/openSUSE), `.tar.gz` |
+| **Android** | `Wavy-x.y.z-Android.apk` – antippen und installieren (Android 8+) |
+| **iPhone** | `Wavy-x.y.z-iPhone.ipa` – per SideStore sideloaden, erneuert sich selbst im Hintergrund |
 
 > **Windows zeigt „Der Computer wurde durch Windows geschützt“?** Wavy ist (noch) nicht mit einem kostenpflichtigen Zertifikat signiert. Auf **Weitere Informationen → Trotzdem ausführen** klicken. Wavy sammelt keine Daten und schickt nichts an fremde Server.
 
@@ -73,6 +76,10 @@
 </table>
 
 <p align="center"><img src=".github/island.png" alt="Dynamic Island" width="480"></p>
+
+## Community
+
+Fragen, Bugs, Ideen oder einfach dein Setup zeigen: **[Wavy-Discord beitreten](https://discord.gg/sMkQURNqbX)** – neue Versionen werden dort automatisch angekündigt.
 
 ## Updates
 
