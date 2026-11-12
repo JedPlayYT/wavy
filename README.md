@@ -2,6 +2,8 @@
   <img src=".github/banner.png" alt="Wavy – YouTube Music als Desktop-App" width="100%">
 </p>
 
+<p align="center"><a href="README.en.md">English</a> · <b>Deutsch</b></p>
+
 <p align="center">
   <a href="https://github.com/JedPlayYT/wavy/releases/latest"><img src="https://img.shields.io/github/v/release/JedPlayYT/wavy?style=for-the-badge&label=Version&color=8b5cf6" alt="Neueste Version"></a>
   <a href="https://github.com/JedPlayYT/wavy/releases"><img src="https://img.shields.io/github/downloads/JedPlayYT/wavy/total?style=for-the-badge&label=Downloads&color=ec4899" alt="Downloads"></a>
@@ -9,7 +11,7 @@
   <a href="https://discord.gg/sMkQURNqbX"><img src="https://img.shields.io/badge/Discord-beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-**Wavy** ist ein Desktop-Player für **YouTube Music** – mit eigenem Design, Equalizer, Live-Wallpaper, Karaoke-Songtexten, Discord-Status und „Zusammen hören“ mit Freunden. Du meldest dich ganz normal mit deinem YouTube-/Google-Konto an, alles andere passiert lokal auf deinem PC.
+**Wavy** ist ein Desktop-Player für **YouTube Music** – mit eigenem Design, Equalizer, Live-Wallpaper, Karaoke-Songtexten, Discord-Status und „Zusammen hören“ mit Freunden. Du meldest dich ganz normal mit deinem YouTube-/Google-Konto an, alles andere passiert lokal auf deinem PC. Wavy gibt es auf **Deutsch und Englisch** – es richtet sich nach deiner Systemsprache.
 
 ## Download
 
@@ -65,6 +67,7 @@
 - **Dynamic Island** oben am Bildschirm, mit Lautstärke
 - **Live-Wallpaper** – Welle, Balken oder Partikel hinter den Desktop-Symbolen
 - **Lyrics-Overlay** über Spielen und anderen Apps
+- **Freunde** – Songs schicken, sehen was Freunde hören, Wochen-Rangliste; ein Konto auf PC und Handy
 - **Zusammen hören** – Raum-Code teilen, alle hören synchron
 - **Schnellsuche** von überall mit eigener Tastenkombination
 - **Discord-Status**, Last.fm-Scrobbling, Handy-Fernbedienung
@@ -79,7 +82,7 @@
 
 ## Community
 
-Fragen, Bugs, Ideen oder einfach dein Setup zeigen: **[Wavy-Discord beitreten](https://discord.gg/sMkQURNqbX)** – neue Versionen werden dort automatisch angekündigt.
+Fragen, Bugs, Ideen oder einfach dein Setup zeigen: **[Wavy-Discord beitreten](https://discord.gg/sMkQURNqbX)** – neue Versionen werden dort automatisch angekündigt. Deutsch und Englisch sind beide willkommen.
 
 ## Updates
 
@@ -87,9 +90,10 @@ Wavy schaut beim Start und alle paar Stunden nach einer neuen Version. Dann ersc
 
 ## Datenschutz
 
-- Kein Tracking, keine Werbe-IDs, kein eigenes Konto.
+- Kein Tracking, keine Werbe-IDs.
 - Einstellungen, Statistik und Verlauf liegen nur auf deinem PC (sicherbar als Datei).
-- Verbindungen nur zu YouTube Music und zu Diensten, die du selbst einschaltest (Songtexte, Last.fm, Discord, Zusammen hören).
+- Verbindungen nur zu YouTube Music und zu Diensten, die du selbst einschaltest (Songtexte, Last.fm, Discord, Zusammen hören, Freunde).
+- Das freiwillige Freunde-Konto speichert nur Anzeigenamen, Freundesliste und was du teilen willst. Bei Anmeldung mit Google oder E-Mail speichert Wavy nur Googles Kontonummer bzw. einen Hash der E-Mail – nie die Adresse selbst. „Konto löschen“ entfernt alles sofort.
 
 ---
 
