@@ -9,11 +9,14 @@
   <a href="https://github.com/JedPlayYT/wavy/releases"><img src="https://img.shields.io/github/downloads/JedPlayYT/wavy/total?style=for-the-badge&label=Downloads&color=ec4899" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/Windows%20%C2%B7%20macOS%20%C2%B7%20Linux%20%C2%B7%20Android%20%C2%B7%20iPhone-111827?style=for-the-badge" alt="Windows, macOS, Linux, Android, iPhone">
   <a href="https://discord.gg/sMkQURNqbX"><img src="https://img.shields.io/badge/Discord-join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://jedplayyt.github.io/wavy/"><img src="https://img.shields.io/badge/Website-jedplayyt.github.io%2Fwavy-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
 </p>
 
 **Wavy** is a desktop player for **YouTube Music** – with its own design, equalizer, live wallpaper, karaoke lyrics, Discord status, friends and “listen together”. You sign in with your normal YouTube/Google account; everything else happens locally on your PC. Wavy is available in **English and German** and follows your system language.
 
 ## Download
+
+The easiest way: **[download Wavy on the website](https://jedplayyt.github.io/wavy/#download)** – it picks the right file for your system.
 
 <p>
   <a href="https://github.com/JedPlayYT/wavy/releases/latest"><img src="https://img.shields.io/badge/Windows-Download-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></a>
