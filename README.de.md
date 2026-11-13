@@ -24,12 +24,25 @@
 | System | Datei |
 |---|---|
 | **Windows 10/11** | `Wavy-Setup-x.y.z.exe` – aktualisiert sich danach selbst |
-| **macOS** | `…-Mac-Apple-Silicon.dmg` (M1–M4) oder `…-Mac-Intel.dmg` – öffnen und Wavy in „Programme“ ziehen |
+| **macOS** | `…-Mac-Apple-Silicon.dmg` (M1–M4) oder `…-Mac-Intel.dmg` – öffnen und Wavy in „Programme“ ziehen ([erster Start](#mac)) |
 | **Linux** | `.AppImage` (aktualisiert sich selbst), `.deb` (Ubuntu/Debian), `.rpm` (Fedora/openSUSE), `.tar.gz` |
 | **Android** | `Wavy-x.y.z-Android.apk` – antippen und installieren (Android 8+) |
 | **iPhone** | `Wavy-x.y.z-iPhone.ipa` – per SideStore sideloaden, erneuert sich selbst im Hintergrund |
 
 > **Windows zeigt „Der Computer wurde durch Windows geschützt“?** Wavy ist (noch) nicht mit einem kostenpflichtigen Zertifikat signiert. Auf **Weitere Informationen → Trotzdem ausführen** klicken. Wavy sammelt keine Daten und schickt nichts an fremde Server.
+
+## Mac
+
+1. Die `.dmg` öffnen und Wavy auf **Programme** ziehen.
+2. Wavy ist nicht von Apple beglaubigt (das kostet 99 $ im Jahr). Deshalb meldet macOS beim ersten Start *„Wavy ist beschädigt und kann nicht geöffnet werden“*. Die App ist in Ordnung – auf **Abbrechen** klicken.
+3. **Terminal** öffnen (Cmd + Leertaste, „Terminal“ tippen), diese Zeile einfügen und Enter drücken:
+
+   ```
+   xattr -cr /Applications/Wavy.app && codesign --force --deep --sign - /Applications/Wavy.app
+   ```
+
+   Sie entfernt die Download-Sperre, die macOS auf Apps setzt, die nicht bei Apple angemeldet sind, und signiert Wavy lokal auf deinem Mac.
+4. Wavy wieder öffnen – ab jetzt startet es ganz normal.
 
 ## Was Wavy kann
 
