@@ -24,7 +24,7 @@
 | System | Datei |
 |---|---|
 | **Windows 10/11** | `Wavy-Setup-x.y.z.exe` – aktualisiert sich danach selbst |
-| **macOS** | `…-Mac-Apple-Silicon.zip` (M1–M4) oder `…-Mac-Intel.zip` – Anleitung liegt in der Zip |
+| **macOS** | `…-Mac-Apple-Silicon.dmg` (M1–M4) oder `…-Mac-Intel.dmg` – öffnen und Wavy in „Programme“ ziehen |
 | **Linux** | `.AppImage` (aktualisiert sich selbst), `.deb` (Ubuntu/Debian), `.rpm` (Fedora/openSUSE), `.tar.gz` |
 | **Android** | `Wavy-x.y.z-Android.apk` – antippen und installieren (Android 8+) |
 | **iPhone** | `Wavy-x.y.z-iPhone.ipa` – per SideStore sideloaden, erneuert sich selbst im Hintergrund |
